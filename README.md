@@ -1,9 +1,15 @@
 # Overview
 
-The goal of this repo is to provide people with a reference to available sites that hold or reference publicly available data sets. A general reference section provides a list of organisations and sites that host information. Sites that provide data related to Africa and to South Africa are also provided.
+The goal of this repo is to provide:
 
-[General data sites](General.md)
+* references to available sites that hold or reference publicly available data sets, gloablly and specific to Africa and South Africa.
+* links to already-existing projects and organisations related to using data and analytics to contribute to civil society.
+* resources for working with different datasets.
 
-[Africa data sites](Africa.md)
+These files provide lists of organisations and sites that host data and projects:
 
-[South African data sites](SouthAfrica.md)
+[General](General.md)
+
+[Africa](Africa.md)
+
+[South Africa](SouthAfrica.md)

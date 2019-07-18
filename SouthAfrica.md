@@ -1,9 +1,8 @@
-# South African Data Sets
-Public Data relevant to South Africa
+# South Africa
 
-* https://openup.org.za/
+Organisations:
+* [OpenUp](https://openup.org.za/), with [GitHub repo](https://github.com/openupsa/)
 
-
-
-
+Data: 
+* https://datahub.io/pi
 
