@@ -2,6 +2,7 @@
 # South African Data and Organisations
 
 ## Organisations
+* [StatsSA](http://superweb.statssa.gov.za/webapi)
 * [OpenUp](https://openup.org.za/), with [GitHub repo](https://github.com/openupsa/)
 
 ## Data Links 
