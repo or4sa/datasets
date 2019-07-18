@@ -119,4 +119,16 @@ City of Cape Town - Available data sets
 
 * https://web1.capetown.gov.za/web1/OpenDataPortal/AllDatasets
 
+Biodiversity Atlas of South Africa
+
+* [MetaData](https://bea.dirisa.org/resources)
+* [Portal Access for data download] (http://www.sasdi.net/search.aspx?guid=5bb81c7b-15e1-1be1-df7a-0eb437683c76&noframe=true&tab=Analysis)
+
+South Africa LSM (Living Standards Measure) data
+
+* http://www.saarf.co.za/SAARF/freesaarfdata.asp
+
+South African Spatial Data Infrastructure (SASDI):
+
+* http://www.sasdi.net/
 
