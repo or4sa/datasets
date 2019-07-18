@@ -6,4 +6,4 @@ Links to sites that have public data available
 * [Mendely](https://data.mendeley.com/)-  Open research data repository
 
 ## Sites
-[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
