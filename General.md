@@ -1,5 +1,8 @@
 # General References
 
+## Sites
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 ## Organisations
 * [Datahub](https://datahub.io/docs/about) - Lots of datasets both free and premium access available
 * [Dryad](http://datadryad.org/) - Nonprofit repository for data referenced in international scientific and medical literature.
@@ -14,6 +17,5 @@
 * [Central intelligence agency(Library)](https://www.cia.gov/library/reports)
 * [Center for disease control stats](https://www.cdc.gov/DataStatistics/)
 
-## Sites
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 
