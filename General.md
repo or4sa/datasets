@@ -9,8 +9,8 @@ Links to sites that have public data available
 * [Nature Scientific Data](https://www.nature.com/sdata/policies/repositories) - Recommended Data Repositories
 * [re3data](https://www.re3data.org/) - Registry of research data repositories
 * [Department of homeland security (USA)](https://www.dhs.gov/topic/data)
-* https://www.cia.gov/library/reports central intelligence agency(Library)
-* https://www.cdc.gov/DataStatistics/ center for disease control stats
+* [Central intelligence agency(Library)](https://www.cia.gov/library/reports)
+* [Center for disease control stats](https://www.cdc.gov/DataStatistics/)
 
 ## Sites
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
