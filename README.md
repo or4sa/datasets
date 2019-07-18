@@ -6,5 +6,4 @@ The goal of this repo is to provide people with a reference to available sites t
 
 [Africa data sites](Africa.md)
 
-
-
+[South African data sites](SouthAfrica.md)
