@@ -8,6 +8,8 @@ Links to sites that have public data available
 
 *https://www.weforum.org/reports world economic forum
 
+* https://afribary.com/
+
 *https://mec.org.mw/2019-tripartite-elections/  malawi electoral commission 
 
 *https://www.pprune.org/archive/index.php/t-124152.html busiest airports in africa
