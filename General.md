@@ -8,7 +8,7 @@ Links to sites that have public data available
 * [Mendely](https://data.mendeley.com/) -  Open research data repository
 * [Nature Scientific Data](https://www.nature.com/sdata/policies/repositories) - Recommended Data Repositories
 * [re3data](https://www.re3data.org/) - Registry of research data repositories
-* https://www.dhs.gov/topic/data department of homeland security (USA)
+* [Department of homeland security (USA)](https://www.dhs.gov/topic/data)
 * https://www.cia.gov/library/reports central intelligence agency(Library)
 * https://www.cdc.gov/DataStatistics/ center for disease control stats
 
