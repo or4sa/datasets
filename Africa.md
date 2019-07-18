@@ -3,6 +3,10 @@ Links to sites that have public data available
 
 * https://afribary.com/
 
+* https://www.usaid.gov/results-and-data/data-resources
+
+
+
 Monitoring the Illegal Killing of Elephants (MIKE)
 
 * https://fusiontables.google.com/DataSource?docid=1juiqNCOUwqperYcoq_uCWaZ5lEs8t09hfRry_I37&usp=drive_open#rows:id=4
@@ -77,6 +81,14 @@ Malawi
 * https://data.worldbank.org/country/Malawi 
 
 * https://knoema.com/atlas/Malawi
+
+* http://www.nsomalawi.mw/ 
+
+* https://tradingeconomics.com/malawi/gdp
+
+* https://www.unaids.org/en/regionscountries/countries/malawi
+
+
 
 
 Zambia 
