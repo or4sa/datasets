@@ -15,3 +15,13 @@ Links to sites that have public data available
 ## Sites
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
+*https://www.ripe.net/publications/docs/ripe-718 Network Infrustructure 
+ 
+*https://www.cdc.gov/vaccines/index.html# Vaccines and immunisation
+
+*https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx ICT statistics
+
+*https://www.un.org/en/ United Nation on world wide stats
+
+* https://migrationdataportal.org/?i=stock_abs_&t=2017 migration data Portal
+
