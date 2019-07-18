@@ -8,7 +8,8 @@
 * [Dryad](http://datadryad.org/) - Nonprofit repository for data referenced in international scientific and medical literature.
 * [figshare](https://figshare.com/) - Research data management
 * [FAIRsharing](https://fairsharing.org/) - Curated index of data, standards and policies
-* [Mendely](https://data.mendeley.com/) -  Open research data repository
+* [Harvard Dataverse](https://dataverse.harvard.edu/) - Open source research data repository software
+* [Mendely Data](https://data.mendeley.com/) -  Open research data repository
 * [Nature Scientific Data](https://www.nature.com/sdata/policies/repositories) - Recommended Data Repositories
 * [re3data](https://www.re3data.org/) - Registry of research data repositories
 
