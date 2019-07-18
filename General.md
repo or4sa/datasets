@@ -1,4 +1,5 @@
 # General Dataset References
+Links to sites that have public data available
 
 ## Organisations
 * [Dathub](https://datahub.io/docs/about) - Lots of datasets both free and premium access available
@@ -7,9 +8,10 @@
 * [Mendely](https://data.mendeley.com/) -  Open research data repository
 * [Nature Scientific Data](https://www.nature.com/sdata/policies/repositories) - Recommended Data Repositories
 * [re3data](https://www.re3data.org/) - Registry of research data repositories
-
-
-## 
+* https://www.dhs.gov/topic/data department of homeland security (USA)
+* https://www.cia.gov/library/reports central intelligence agency(Library)
+* https://www.cdc.gov/DataStatistics/ center for disease control stats
 
 ## Sites
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
