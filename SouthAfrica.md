@@ -1,13 +1,17 @@
-# South African Data Sets
-Public Data relevant to South Africa
 
-Organisations:
+# South African Data and Organisations
+
+## Organisations
+* [StatsSA](http://superweb.statssa.gov.za/webapi)
 * [OpenUp](https://openup.org.za/), with [GitHub repo](https://github.com/openupsa/)
 
-Data: 
+## Data Links 
 * https://datahub.io/pi
 * [Open Data Portal](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/central)
 * [South Africa Data Portal](http://southafrica.opendataforafrica.org/data)
+
+* [SA Population](http://worldpopulationreview.com/countries/south-africa-population/)
+
 * http://worldpopulationreview.com/countries/south-africa-population/
 
 Environmental data City of Cape Town - aerial photography
