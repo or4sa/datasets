@@ -48,6 +48,11 @@ Environmental data City of Cape Town - aerial photography
 
 * https://web1.capetown.gov.za/web1/OpenDataPortal/DatasetDetail?DatasetName=Digital%20elevation%20model
 
+*https://www.daff.gov.za/daffweb3/Home/Crop-Estimates/Statistical-Information South African Agricultural stats
+
+
+http://www.statssa.gov.za/?s=agriculture Agricultural stats in south africa
+
 Environmental data City of Cape Town - agricultural land
 
 * https://web1.capetown.gov.za/web1/OpenDataPortal/DatasetDetail?DatasetName=Agricultural%20land

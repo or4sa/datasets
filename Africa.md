@@ -1,5 +1,5 @@
 # General Dataset References
-Links to sites that have public data available
+Links to sites that have public data assvailable
 *https://afribary.com/ africa’s largest online academic library africa’s largest online academic library
 
 *http://sdg.iisd.org/sdgs/goal-6-clean-water-sanitation/ sdg knowledge base
@@ -17,6 +17,10 @@ Links to sites that have public data available
 * https://www.pprune.org/archive/index.php/t-124152.html busiest airports in africa
 
 * http://www.weathersa.co.za/home/network the south african weather services
+
+* https://unctad.org/en/Pages/statistics.aspx UN trade and development
+
+* https://www.unhcr.org/ Unhcr
 
 * http://www.sharedata.co.za/v2/Scripts/AfricaEconomicData/default.aspx  Core Economic Data for African Countries
 
@@ -420,3 +424,4 @@ Mauritania
 * https://data.worldbank.org/country/mauritania
 
 * https://knoema.com/atlas/Mauritania
+
