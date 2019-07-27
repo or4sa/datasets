@@ -1,13 +1,43 @@
-# South African Data Sets
-Public Data relevant to South Africa
 
-Organisations:
+# South African Data and Organisations
+
+## Organisations
+* [StatsSA](http://superweb.statssa.gov.za/webapi)
 * [OpenUp](https://openup.org.za/), with [GitHub repo](https://github.com/openupsa/)
 
-Data: 
+## Data Links 
 * https://datahub.io/pi
+
 * [Open Data Portal](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/central)
+
 * [South Africa Data Portal](http://southafrica.opendataforafrica.org/data)
+
+* http://worldpopulationreview.com/countries/south-africa-population/ world population focused on south africa
+
+*http://www.dhs.gov.za/content/annual-reports department of human settlement
+
+*http://www.dha.gov.za/ department of homeaffairs
+
+*http://www.dcs.gov.za/?page_id=663 department of corectional services
+
+*https://www.enca.com/news the Enews channel
+
+*https://www.gov.za/about-government/government-system/national-departments the south african govenment website
+
+*https://www.resbank.co.za/Research/Statistics/Pages/Statistics-Home.aspx the south african reserve bank
+
+*https://www.southafricanmi.com/education-statistics.html south african market insights
+
+*http://ir.jse.co.za/results/annual-reports  Johannesburg Stock exchange 
+
+*https://tradingeconomics.com/south-africa/indicators south african indicators
+
+*http://www.statssa.gov.za/?cat=30 stats SA on economic growth
+
+*http://www.health.gov.za/index.php/2014-03-17-09-09-38/2014-03-17-09-24-31/category/30-test1 department of health
+
+* [SA Population](http://worldpopulationreview.com/countries/south-africa-population/)
+
 * http://worldpopulationreview.com/countries/south-africa-population/
 
 Environmental data City of Cape Town - aerial photography
@@ -88,4 +118,17 @@ Environmental data City of Cape Town - Soils
 City of Cape Town - Available data sets 
 
 * https://web1.capetown.gov.za/web1/OpenDataPortal/AllDatasets
+
+Biodiversity Atlas of South Africa
+
+* [MetaData](https://bea.dirisa.org/resources)
+* [Portal Access for data download] (http://www.sasdi.net/search.aspx?guid=5bb81c7b-15e1-1be1-df7a-0eb437683c76&noframe=true&tab=Analysis)
+
+South Africa LSM (Living Standards Measure) data
+
+* http://www.saarf.co.za/SAARF/freesaarfdata.asp
+
+South African Spatial Data Infrastructure (SASDI):
+
+* http://www.sasdi.net/
 

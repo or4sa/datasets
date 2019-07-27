@@ -8,8 +8,8 @@ The goal of this repo is to provide:
 
 These files provide lists of organisations and sites that host data and projects:
 
-[General](General.md)
+[General](General.md) | [Africa](Africa.md) | [South Africa](SouthAfrica.md)
 
-[Africa](Africa.md)
 
-[South Africa](SouthAfrica.md)
+
+
