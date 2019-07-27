@@ -26,9 +26,9 @@
 
 ## Government data
 ### USA
-* [Department of homeland security (USA)](https://www.dhs.gov/topic/data)
-* [Central intelligence agency(Library)](https://www.cia.gov/library/reports)
-* [Center for disease control stats](https://www.cdc.gov/DataStatistics/)
+* [Department of Homeland Security (USA)](https://www.dhs.gov/topic/data)
+* [Central Intelligence Agency(Library)](https://www.cia.gov/library/reports)
+* [CDC - Center for Disease Control Stats](https://www.cdc.gov/DataStatistics/)
 * [CDC - National Immunization Surveys (NIS)](https://www.cdc.gov/vaccines/imz-managers/nis/data-tables.html) 
 
 
