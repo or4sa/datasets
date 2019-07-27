@@ -13,21 +13,17 @@
 * [Nature Scientific Data](https://www.nature.com/sdata/policies/repositories) - Recommended Data Repositories
 * [re3data](https://www.re3data.org/) - Registry of research data repositories
 
+## Other
+* [ICT statistics](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
+* [United Nation on world wide stats](https://www.un.org/en/)
+* [Migration data Portal](https://migrationdataportal.org/?i=stock_abs_&t=2017)
+* [Network Infrustructure](https://www.ripe.net/publications/docs/ripe-718)  
+
 ## Government data
 ### USA
 * [Department of homeland security (USA)](https://www.dhs.gov/topic/data)
 * [Central intelligence agency(Library)](https://www.cia.gov/library/reports)
 * [Center for disease control stats](https://www.cdc.gov/DataStatistics/)
+* [Vaccines and immunisation](https://www.cdc.gov/vaccines/index.html) 
 
-
-
-*https://www.ripe.net/publications/docs/ripe-718 Network Infrustructure 
- 
-*https://www.cdc.gov/vaccines/index.html# Vaccines and immunisation
-
-*https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx ICT statistics
-
-*https://www.un.org/en/ United Nation on world wide stats
-
-* https://migrationdataportal.org/?i=stock_abs_&t=2017 migration data Portal
 
