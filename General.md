@@ -13,11 +13,16 @@
 * [Nature Scientific Data](https://www.nature.com/sdata/policies/repositories) - Recommended Data Repositories
 * [re3data](https://www.re3data.org/) - Registry of research data repositories
 
-## Other
+---
+
 * [ICT statistics](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
-* [United Nation on world wide stats](https://www.un.org/en/)
-* [Migration data Portal](https://migrationdataportal.org/?i=stock_abs_&t=2017)
-* [Network Infrustructure](https://www.ripe.net/publications/docs/ripe-718)  
+> International Telecommunications Union (ITU) is a UN specialized agency for ICTs and the official source for global ICT statistics.
+* [United Nations](https://www.un.org/en/)
+> The United Nations is an international organization currently made up of 193 Member States.
+* [Migration Data Portal](https://migrationdataportal.org/)
+> Aims to provide access to global migration statistics. The Portal is managed and developed by IOM’s Global Migration Data Analysis Centre - [GMDAC](https://gmdac.iom.int/)
+* [RIPE NCC](https://labs.ripe.net/)
+> Réseaux IP Européens, Regional Internet Registry for Europe, the Middle East and parts of Central Asia.
 
 ## Government data
 ### USA
