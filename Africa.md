@@ -1,12 +1,13 @@
-# General Dataset References
-Links to sites that have public data assvailable
-*https://afribary.com/ africa’s largest online academic library africa’s largest online academic library
+# Africa Dataset References
 
-*http://sdg.iisd.org/sdgs/goal-6-clean-water-sanitation/ sdg knowledge base
 
-*https://www.unwater.org/water-facts/scarcity/ united nation on water
+* https://afribary.com/ africa’s largest online academic library africa’s largest online academic library
 
-*https://www.weforum.org/reports world economic forum
+* http://sdg.iisd.org/sdgs/goal-6-clean-water-sanitation/ sdg knowledge base
+
+* https://www.unwater.org/water-facts/scarcity/ united nation on water
+
+* https://www.weforum.org/reports world economic forum
 
 * https://afribary.com/
 
