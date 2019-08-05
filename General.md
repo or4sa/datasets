@@ -25,6 +25,10 @@
 > Réseaux IP Européens, Regional Internet Registry for Europe, the Middle East and parts of Central Asia.
 
 ## Government data
+
+### UK
+* [YouGov](https://yougov.co.uk/)
+
 ### USA
 * [Department of Homeland Security (USA)](https://www.dhs.gov/topic/data)
 * [Central Intelligence Agency(Library)](https://www.cia.gov/library/reports)
