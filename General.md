@@ -25,7 +25,10 @@
 > Réseaux IP Européens, Regional Internet Registry for Europe, the Middle East and parts of Central Asia.
 
 ## Domain Specific
+* [ICMM Data Tool](http://data.icmm.com/) - mining-related economic data by country. In support of the International Council of Mining and Metals 'Role of Mining in National Economies'.
+
 * [Lyft Level 5](https://level5.lyft.com/dataset/) -  Raw sensor camera and LiDAR inputs as perceived by a fleet of multiple, autonomous vehicles in a bounded geographic area, includes high quality, human-labelled 3D bounding boxes of traffic agents, an underlying HD spatial semantic map.
+
 
 ## Government data
 
